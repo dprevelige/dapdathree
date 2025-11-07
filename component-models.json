@@ -104,7 +104,7 @@
       },
       {
         "component": "text",
-        "name": "div:nth-child(3)",
+        "name": "button",
         "valueType": "string",
         "label": "Variant",
         "multi": false
