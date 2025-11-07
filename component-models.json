@@ -79,7 +79,7 @@
     ]
   },
   {
-    "id": "card",
+    "id": "CTA",
     "fields": [
       {
         "component": "reference",

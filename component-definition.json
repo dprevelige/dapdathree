@@ -91,6 +91,16 @@
           "model": "card"
         },
         {
+          "title": "CTA",
+          "id": "cta",
+          "plugins": {
+            "da": {
+              "unsafeHTML": "<div><div><picture><source type=\"image/webp\" srcset=\"\"><source type=\"image/jpeg\" srcset=\"\"><img loading=\"lazy\"></picture></div><div></div></div>"
+            }
+          },
+          "model": "cta"
+        },
+        {
           "title": "Carousel",
           "id": "carousel",
           "plugins": {
