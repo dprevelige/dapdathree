@@ -22,7 +22,7 @@ export default function decorate(block) {
           div({ class: 'cta-text' }, (properties['keyhere']) ? properties['keyhere'] : ''),
           div({ class: 'cta-button' },
             div({ class: 'button-container' },
-                a({ id: 'button', href: buttonLink, class: `button ${buttonStyle}` },
+                a({ id: 'button', href: '#', class: `button dark-bg` },
                   span({ class: 'button-text' }, rteContent),
                 ),
               ),
