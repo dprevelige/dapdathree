@@ -11,3 +11,16 @@
     align-items: center;
     justify-content: center;
   }
+  .cta-block .cta-text, .cta-block .cta-button {
+    text-align: center;
+  }
+  .cta-block .cta-text {
+    margin-top: -300px;
+
+  }
+  .cta-block .cta-button {
+    margin-bottom: 300px;
+  }
+  .cta-block .cta-button:after {
+    content: '';
+  }
