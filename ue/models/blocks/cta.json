@@ -5,7 +5,9 @@
         "id": "cta",
         "plugins": {
           "da": {
-            "unsafeHTML": "<div class=\"cta\"><div><div><div><img src=\"\" alt=\"\"/><div/><div><div><a href=\"\"><span/></a></div></div></div></div></div>"
+            "name": "cta",
+            "rows": 4,
+            "columns": 2
           }
         }
       }
