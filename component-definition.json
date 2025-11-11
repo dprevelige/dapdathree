@@ -91,15 +91,6 @@
           "model": "card"
         },
         {
-          "title": "CTA",
-          "id": "cta",
-          "plugins": {
-            "da": {
-              "unsafeHTML": "<div class=\"cta\"><div><div><div><img src=\"\" alt=\"\"/><div/><div><div><a href=\"\"><span/></a></div></div></div></div></div>"
-            }
-          }
-        },
-        {
           "title": "Carousel",
           "id": "carousel",
           "plugins": {
@@ -116,6 +107,15 @@
             "da": {
               "name": "carousel-item",
               "unsafeHTML": "<div><div><picture><source type=\"image/webp\" srcset=\"\"><source type=\"image/jpeg\" srcset=\"\"><img loading=\"lazy\"></picture></div><div></div></div>"
+            }
+          }
+        },
+        {
+          "title": "CTA",
+          "id": "cta",
+          "plugins": {
+            "da": {
+              "unsafeHTML": "<div class=\"cta\"><div><div><div><img src=\"\" alt=\"\"/><div/><div><div><a href=\"\"><span/></a></div></div></div></div></div>"
             }
           }
         },
